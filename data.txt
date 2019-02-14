@@ -1,3 +1,4 @@
 Name: Joana Duarte
 Age: 33
 Favorite color: Blue
+New line of file added
